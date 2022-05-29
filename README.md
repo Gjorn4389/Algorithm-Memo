@@ -15,3 +15,5 @@ Copy for remember
 
 # 图论
 1. 并查集: graph.UnionFind
+2. 最短路径
+   1. Dijkstra: graph.shortestpath.Dijkstra
