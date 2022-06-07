@@ -4,6 +4,9 @@ Copy for remember
 # Base
 一些需要的数据结构
 
+# 查找
+1. 二分法查找: binary.BinarySearch
+
 # 排序
 1. 归并排序
    1. 链表排序
