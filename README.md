@@ -20,3 +20,6 @@ Copy for remember
 1. 并查集: graph.UnionFind
 2. 最短路径
    1. Dijkstra: graph.shortestpath.Dijkstra
+
+# 页面置换算法
+1. 最近最少使用(LRU): replace.LRUCache
