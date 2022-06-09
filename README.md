@@ -23,3 +23,4 @@ Copy for remember
 
 # 页面置换算法
 1. 最近最少使用(LRU): replace.LRUCache
+2. 最不经常使用(LFU): replace.LFUCache
