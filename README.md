@@ -7,6 +7,7 @@ Copy for remember
 # 查找
 1. 二分法查找: binary.BinarySearch
 2. 寻找旋转数组中最小值: binary.RotatedArrayMinimum
+3. 寻找旋转数组中目标值: binary.RotatedArrayTarget
 
 # 排序
 1. 归并排序
