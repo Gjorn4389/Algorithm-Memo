@@ -26,3 +26,11 @@ Copy for remember
 # 页面置换算法
 1. 最近最少使用(LRU): replace.LRUCache
 2. 最不经常使用(LFU): replace.LFUCache
+
+# 多线程
+1. 按序打印
+   + 可重入锁: thread.printorder.ReentrantLockImpl
+   + waitNotify: thread.printorder.WaitNotifyImpl
+   + Condition: thread.printorder.ConditionImpl
+   + Semaphore: thread.printorder.SemaphoreImpl
+   + LockSupport: thread.printorder.LockSupportImpl
