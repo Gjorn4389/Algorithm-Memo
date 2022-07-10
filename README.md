@@ -34,3 +34,6 @@ Copy for remember
    + Condition: thread.printorder.ConditionImpl
    + Semaphore: thread.printorder.SemaphoreImpl
    + LockSupport: thread.printorder.LockSupportImpl
+
+# 设计模式
+1. 单例模式: design.Singleton
