@@ -35,5 +35,8 @@ Copy for remember
    + Semaphore: thread.printorder.SemaphoreImpl
    + LockSupport: thread.printorder.LockSupportImpl
 
+# 位操作
+1. 操作一个数的二进制位: bit.BitOps
+
 # 设计模式
 1. 单例模式: design.Singleton
