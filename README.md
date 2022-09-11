@@ -42,3 +42,6 @@ Copy for remember
 
 # 设计模式
 1. 单例模式: design.Singleton
+
+# 唯一ID
+1. 雪花算法: snowflake.IdWorker
