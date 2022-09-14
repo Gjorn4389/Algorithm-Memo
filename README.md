@@ -36,6 +36,7 @@ Copy for remember
    + Condition: thread.printorder.ConditionImpl
    + Semaphore: thread.printorder.SemaphoreImpl
    + LockSupport: thread.printorder.LockSupportImpl
+2. Peterson算法 (实现临界区互斥) : thread.peterson.Peterson
 
 # 位操作
 1. 操作一个数的二进制位: bit.BitOps
