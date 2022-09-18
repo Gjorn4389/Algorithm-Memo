@@ -18,7 +18,10 @@ Copy for remember
    2. 合并多个有序链表
       + 分治: sort.merge.linkedlist.multylists.DivideConquer
       + 优先队列: sort.merge.linkedlist.multylists.SortedCollections
-2. 堆排序: sort.nums.HeapSort
+2. 插入排序: sort.nums.InsertionSort
+3. 选择排序: sort.nums.SelectionSort
+4. 冒泡排序: sort.nums.BubbleSort
+5. 堆排序: sort.nums.HeapSort
 
 # 图论
 1. 并查集: graph.UnionFind
