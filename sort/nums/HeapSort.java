@@ -1,6 +1,6 @@
-package sort.heap;
+package sort.nums;
 
-public class HeapSort {
+public class HeapSort implements Sort {
 
     public static void main(String[] args) {
         HeapSort test = new HeapSort();
@@ -9,6 +9,11 @@ public class HeapSort {
         for (int i : ans) {
             System.out.print(i + " ");
         }
+    }
+
+    @Override
+    public void sort(int[] nums) {
+        heapSort(nums);
     }
 
     public int[] heapSort(int[] arr) {
@@ -68,5 +73,6 @@ public class HeapSort {
         nums[i] = nums[j];
         nums[j] = t;
     }
+
 
 }
